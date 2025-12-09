@@ -1,4 +1,4 @@
-class basic{
+class Basic{
     public static void main(String[]args){
 
         // Conditional Statements (if-else)
