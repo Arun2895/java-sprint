@@ -48,7 +48,7 @@ class Arrays {
 //Searching an element in an array
 import java.util.Scanner;
 
-class Main {
+class Arrays {
     public static void main(String[] args) {
         int arr[] = {10,20,30,50,70};
         Scanner sc = new Scanner(System.in);
