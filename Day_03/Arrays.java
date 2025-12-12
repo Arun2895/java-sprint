@@ -44,3 +44,26 @@ class Arrays {
     }
 }
 
+
+//Searching an element in an array
+import java.util.Scanner;
+
+class Main {
+    public static void main(String[] args) {
+        int arr[] = {10,20,30,50,70};
+        Scanner sc = new Scanner(System.in);
+        boolean keyfound = false;
+        int key = sc.nextInt();
+        for(int i=0;i<arr.length;i++){
+            if(arr[i]==key){
+                System.out.println(i);
+                keyfound = true;
+                break;
+        }
+        }
+        if (keyfound==false){
+            System.out.println("Key not found");
+        }
+        sc.close();
+    }
+}
