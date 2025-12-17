@@ -15,4 +15,4 @@ I created this repo to document my journey from a beginner to mastering Java fun
 --- 
 ## 📂 Folder Structure
 The repository is organized by folders corresponding to the daily topics or specific modules from the course:
-Each folder corresponds to a specific day's curriculum, ranging from **Day 1** to **Day 15**.
+Each folder corresponds to a specific day's curriculum, ranging from **Day 1** to **Day 10**.
