@@ -24,9 +24,9 @@ class Strings{
     }
 }
 
-    import java.util.Scanner;
-    // Frequency check of strings
-    class Strings{
+import java.util.Scanner;
+// Frequency check of strings
+class Strings{
     public static void main(String[]args){
         Scanner sc = new Scanner(System.in);
         char s = sc.next().charAt(0);
