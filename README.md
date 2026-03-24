@@ -4,7 +4,7 @@
 
 Welcome to my Java learning repository! 🚀
 
-This repository acts as a collection of my daily code practice, exercises and problem solutions from the **Learnsquare x SRM Java Crash Course**. This Daily Java practice and exercises from the Learnsquare crash course is structured day-by-day from Day 1 to Day 10.
+This repository acts as a collection of my daily code practice, exercises and problem solutions from the **Learnsquare x SRM Java Crash Course**. This Daily Java practice and exercises from the Learnsquare crash course is structured day-by-day from Day 1 to Day 5 on Core Java.
 
 ## 🎯 About This Repository
 I created this repo to document my journey from a beginner to mastering Java fundamentals. By pushing code daily, I aim to:
@@ -15,4 +15,4 @@ I created this repo to document my journey from a beginner to mastering Java fun
 --- 
 ## 📂 Folder Structure
 The repository is organized by folders corresponding to the daily topics or specific modules from the course:
-Each folder corresponds to a specific day's curriculum, ranging from **Day 1** to **Day 10**.
+Each folder corresponds to a specific day's curriculum, ranging from **Day 1** to **Day 5**.
